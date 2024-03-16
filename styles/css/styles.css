@@ -1,1 +1,13 @@
 
+   
+     /* CSS Fil, inte så mycket här då jag använde mig av bootstrap som jag tycker är smidigare.  */
+
+  .header {
+    background-color: #add8e6; /* Ljusblå färg */
+    padding: 20px;
+    text-align: center;
+  }
+  .form-container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
