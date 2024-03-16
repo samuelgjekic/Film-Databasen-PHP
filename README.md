@@ -13,3 +13,4 @@ I Film Databasen kan man
 Simpel css stil med hjälp av bootstrap, inte det snyggaste, men det gick hem i skolan iallafall. 
 
 I detta projekt använder jag mig även av funktioner som ökar säkerheten av koden, och andra saker som borde visa min kunskap inom php, så som **prepared statements**, **join** m.m
+![filmdatabasen](https://github.com/samuelgjekic/Film-Databasen-PHP/assets/41647182/a8b5c30c-9570-4413-a8ca-869a22274ebb)
